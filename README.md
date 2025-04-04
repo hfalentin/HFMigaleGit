@@ -6,4 +6,4 @@ voir si ca recupere
 
 peux tu corriger cette phrase
 
-j'aime les bannnnanes
+j'aime les bananes
